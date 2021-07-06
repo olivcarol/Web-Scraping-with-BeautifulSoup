@@ -1,4 +1,8 @@
-# Web-Scraping-with-BeautifulSoup
+# Project: Chocolate Scraping with Beautiful Soup
+<img width="637" alt="Screen Shot 2021-07-06 at 12 15 28 AM" src="https://user-images.githubusercontent.com/80420919/124536936-4afdc780-ddef-11eb-8a74-e0b05c34092a.png">
+
+*(This project was proposed by Codecademy (www.codecademy.com) at the course "Data Science", chapter: "Data Acquisition").*
+
 
 After eating chocolate bars your whole life, you’ve decided to go on a quest to find the greatest chocolate bar in the world.
 
